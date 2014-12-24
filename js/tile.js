@@ -30,29 +30,29 @@ Tile.prototype.title = function () {
   switch (this.value)
   {
 	case 2:
-		return '雯雯';
+		return '雯雯2';
 	case 4:
-		return '果果';
+		return '小鱼4';
 	case 8:
-		return '小鱼';
+		return '兰兰8';
 	case 16:
-		return '星星';
+		return '星星16';
 	case 32:
-		return '冷漠';
+		return '冷漠32';
 	case 64:
-		return '絮繁';
+		return '絮繁64';
 	case 128:
-		return '菜菜';
+		return '菜菜128';
 	case 256:
-		return '怒怒';
+		return '怒怒256';
 	case 512:
-		return '东方';
+		return '东方512';
 	case 1024:
 		return '百越';
 	case 2048:
 		return '江南';
 	case 4096:
-		return '女人香';
+		return '女神';
 	case 8192:
 		return '妖';
 	case 16384:
