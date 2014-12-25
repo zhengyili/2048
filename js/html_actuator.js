@@ -147,19 +147,19 @@ HTMLActuator.prototype.message = function (won) {
 			message = '在线不冒泡的都找不到媳妇';
 			break;
 		case 16:
-			message = '不错不错，你已经有资格选择角色';
+			message = '星星:不错不错，你已经有资格选择角色，TPH?';
 			break;
 		case 32:
-			message = '在线不说话，做爱没高潮';
+			message = '冷漠:在线不说话，做爱没高潮';
 			break;
 		case 64:
-			message = '走着走着就想出柜，玩着玩着就想劈腿';
+			message = '絮繁:走着走着就想出柜，玩着玩着就想劈腿';
 			break;
 		case 128:
-			message = '锻炼好身体，拿下女管理';
+			message = '菜：锻炼好身体，拿下女管理';
 			break;
 		case 256:
-			message = '哟，想来女人香耍流氓，谁耍谁还不一定呢？';
+			message = '怒怒：哟，想来女人香耍流氓，谁耍谁还不一定呢？';
 			break;
 		case 512:
 			message = '东方不败：这都玩不过，你个表脸个';
