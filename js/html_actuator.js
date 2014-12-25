@@ -150,7 +150,7 @@ HTMLActuator.prototype.message = function (won) {
 			message = '星星:不错不错，你已经有资格选择角色，TPH?';
 			break;
 		case 32:
-			message = '冷漠:在线不说话，做爱没高潮';
+			message = '小唯:在线不说话，做爱没高潮';
 			break;
 		case 64:
 			message = '絮繁:走着走着就想出柜，玩着玩着就想劈腿';

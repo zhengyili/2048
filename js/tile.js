@@ -38,7 +38,7 @@ Tile.prototype.title = function () {
 	case 16:
 		return '星星';
 	case 32:
-		return '冷漠';
+		return '小唯';
 	case 64:
 		return '絮繁';
 	case 128:
