@@ -36,17 +36,17 @@ Tile.prototype.title = function () {
 	case 8:
 		return '兰兰8';
 	case 16:
-		return '星星16';
+		return '星星';
 	case 32:
-		return '冷漠32';
+		return '冷漠';
 	case 64:
-		return '絮繁64';
+		return '絮繁';
 	case 128:
-		return '菜菜128';
+		return '菜菜';
 	case 256:
-		return '怒怒256';
+		return '怒怒';
 	case 512:
-		return '东方512';
+		return '东方';
 	case 1024:
 		return '百越';
 	case 2048:
