@@ -32,7 +32,7 @@ Tile.prototype.title = function () {
 	case 2:
 		return '雯雯2';
 	case 4:
-		return '小鱼4';
+		return '浅浅4';
 	case 8:
 		return '兰兰8';
 	case 16:

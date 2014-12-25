@@ -144,7 +144,7 @@ HTMLActuator.prototype.message = function (won) {
 			message = '在线不冒泡的都找不到媳妇';
 			break;
 		case 8:
-			message = '在线不冒泡的都找不到媳妇';
+			message = '浅浅：在线不冒泡的都找不到媳妇';
 			break;
 		case 16:
 			message = '星星:不错不错，你已经有资格选择角色，TPH?';
