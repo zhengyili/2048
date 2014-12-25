@@ -168,7 +168,7 @@ HTMLActuator.prototype.message = function (won) {
 			message = '姐是老中医，专治吹牛逼';
 			break;
 		case 2048:
-			message = '勾搭模你，竖起你的中指，咱们来PK';
+			message = '勾搭摸你，竖起你的中指，咱们来PK';
 			break;
 		default:
 			message = '女人，爱你一辈子也不会腻';
