@@ -165,7 +165,7 @@ HTMLActuator.prototype.message = function (won) {
 			message = '东方不败：这都玩不过，你个表脸个';
 			break;
 		case 1024:
-			message = '姐是老中医，专治吹牛逼';
+			message = '姐是老中医，专治吹牛逼!!!';
 			break;
 		case 2048:
 			message = '勾搭摸你，竖起你的中指，咱们来PK';
